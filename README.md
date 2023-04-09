@@ -11,9 +11,9 @@ Bu hesap makinesi uygulaması, HTML, CSS ve JavaScript kullanılarak geliştiril
 
 ## Nasıl Kullanılır?
 > Bu depoyu bilgisayarınıza kopyalayın: git clone 'https://github.com/sevimaydin/calculator'
-> HTML dosyasını web tarayıcınızda açın.
-> Uygulamayı başlatmak için, HTML dosyasını >web tarayıcınızda açın.
-> Hesaplama yapmak istediğiniz sayıları >tuşlar veya klavye kullanarak girin.
+> Uygulamayı başlatmak için, HTML dosyasını web tarayıcınızda açın.
+> Hesaplama yapmak istediğiniz sayıları tuşlar veya klavye kullanarak girin hesaplamanızı tamamlayın.
+> AC tuşuna basarak temizleme yapın.
 
 
 
