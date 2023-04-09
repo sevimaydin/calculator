@@ -13,7 +13,10 @@ Bu hesap makinesi uygulaması, HTML, CSS ve JavaScript kullanılarak geliştiril
 > Bu depoyu bilgisayarınıza kopyalayın: git clone 'https://github.com/sevimaydin/calculator'
 > Uygulamayı başlatmak için, HTML dosyasını web tarayıcınızda açın.
 > Hesaplama yapmak istediğiniz sayıları tuşlar veya klavye kullanarak girin hesaplamanızı tamamlayın.
-> AC tuşuna basarak temizleme yapın.
+> AC tuşuna basarak temizleme yapın
+
+### Uygulamayı görüntülemek için  [GitHub Dokümanları](https://sevimaydin.github.io/calculator/) sayfasına bakabilirsiniz.
+
 
 
 
