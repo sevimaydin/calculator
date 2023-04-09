@@ -15,7 +15,8 @@ Bu hesap makinesi uygulaması, HTML, CSS ve JavaScript kullanılarak geliştiril
 > Hesaplama yapmak istediğiniz sayıları tuşlar veya klavye kullanarak girin hesaplamanızı tamamlayın.
 > AC tuşuna basarak temizleme yapın
 
-### Uygulamayı görüntülemek için  [GitHub Dokümanları](https://sevimaydin.github.io/calculator/) sayfasına bakabilirsiniz.
+### Önizleme
+- Uygulamayı görüntülemek için  [calculator](https://sevimaydin.github.io/calculator/) sayfasına bakabilirsiniz.
 
 
 
